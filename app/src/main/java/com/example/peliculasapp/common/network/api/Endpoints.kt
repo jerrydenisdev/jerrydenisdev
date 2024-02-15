@@ -1,4 +1,4 @@
-package com.example.moviesapp.common.network.api
+package com.example.peliculasapp.common.network.api
 
 object Endpoints {
 
